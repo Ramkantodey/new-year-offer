@@ -1,0 +1,18 @@
+.banner{
+    position: relative;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 140px;
+    margin-right: 140px;
+
+}
+.banner img{
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
